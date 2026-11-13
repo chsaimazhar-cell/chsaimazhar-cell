@@ -1,16 +1,49 @@
-## Hi there 👋
+<!-- Profile README for chsaimazhar-cell -->
 
-<!--
-**chsaimazhar-cell/chsaimazhar-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Saim 👋</h1>
+<h3 align="center">🎓 Student Developer | 💻 Exploring Python & Software Development</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+something+new+every+day;Building+my+coding+skills;Turning+ideas+into+projects" alt="Typing introduction" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🎓 I'm a student passionate about technology and programming.
+- 🌱 Currently learning **Python** and strengthening my programming fundamentals.
+- 🧠 Interested in problem-solving and software development.
+- 🎯 My goal is to grow into a skilled software developer.
+- ⚡ I believe in learning by building and improving one step at a time.
+
+### 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python learning" />
+  <img src="https://img.shields.io/badge/Git-Exploring-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-Using-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-Exploring-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+### 📂 My Projects
+
+Here are some repositories I'm working with:
+
+- 📌 [TEC](https://github.com/chsaimazhar-cell/TEC)
+- 📌 [Drift](https://github.com/chsaimazhar-cell/drift)
+- 📌 [Downloader](https://github.com/chsaimazhar-cell/Downloader)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chsaimazhar-cell&show_icons=true&theme=tokyonight&hide_border=true" alt="Saim's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chsaimazhar-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+---
+
+<p align="center">
+  ✨ <b>Thanks for visiting my profile!</b> Let's learn, build, and grow together.
+</p>
