@@ -34,12 +34,16 @@ Here are some repositories I'm working with:
 - 📌 [Drift](https://github.com/chsaimazhar-cell/drift)
 - 📌 [Downloader](https://github.com/chsaimazhar-cell/Downloader)
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chsaimazhar-cell&show_icons=true&theme=tokyonight&hide_border=true" alt="Saim's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chsaimazhar-cell&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <a href="https://github.com/chsaimazhar-cell?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories" />
+  </a>
+</p>
+
+<p align="center">
+  Visit my GitHub profile to explore my projects, repositories, and coding journey.
 </p>
 
 ---
