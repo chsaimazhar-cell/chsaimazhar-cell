@@ -30,9 +30,11 @@
 
 Here are some repositories I'm working with:
 
-- 📌 [TEC](https://github.com/chsaimazhar-cell/TEC)
-- 📌 [Drift](https://github.com/chsaimazhar-cell/drift)
-- 📌 [Downloader](https://github.com/chsaimazhar-cell/Downloader)
+- 📚 [StudySprint CLI](https://github.com/chsaimazhar-cell/studysprint-python) — a Python command-line study planner.
+- 🖥️ [StudySprint GUI](https://github.com/chsaimazhar-cell/studysprint-gui) — a Tkinter desktop study planner.
+- 📌 [Drift](https://github.com/chsaimazhar-cell/drift) — a browser-based public-media downloader.
+- 📌 [Downloader](https://github.com/chsaimazhar-cell/Downloader) — a containerized media-downloader project.
+- 📌 [TEC](https://github.com/chsaimazhar-cell/TEC) — an archived project package under review.
 
 ### 📊 GitHub Activity
 
